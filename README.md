@@ -1,7 +1,4 @@
 # BootstrapDemo
-
-链接：https://www.bilibili.com/video/BV1G44y117Hb
-
 > 建议阅读官方文档时尽量读英文文档
 
 这是一个基于 HTML5 和 [Bootstrap 5](https://getbootstrap.com/) 构建的响应式网页模板，旨在展示编程及相关知识。项目主要用于展示前端、后端和数据库知识，同时提供课程介绍、常见问题、讲师介绍以及联系方式等多个板块，适合教育或技术类网站使用。
@@ -90,6 +87,8 @@
    该模板已设置中文语言环境，如有需要可进行多语言扩展。
 
 ------
+
+链接：https://www.bilibili.com/video/BV1G44y117Hb
 
 ## 许可证
 
